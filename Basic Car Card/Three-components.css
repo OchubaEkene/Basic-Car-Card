@@ -1,0 +1,156 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #F2F2F2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.body-container{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    display: flex;
+    width: 920px;
+    height: 500px;
+    background-color: #E28625;
+    border-radius: 8px;
+}
+/* Styling of Child 1 starts */
+.child1{
+    border-radius: 8px;
+}
+.icon1{
+    margin-top: 48px;
+    margin-left: 48px;
+}
+.car-name1{
+   width: 99px;
+   height: 48px;
+   font-family: 'Big Shoulders Display';
+   font-weight: 700;
+   font-size: 40px;
+   line-height: 48px;
+   text-transform: uppercase;
+   color: #F2F2F2;
+   margin-left: 48px;
+   margin-top: 32px;
+}
+.car-text1{
+    width: 212px;
+    height: 125px;
+    font-family: 'Lexend Deca';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.75;
+    margin-left: 48px;
+    margin-top: 25px;
+    margin-right: 48px;
+}
+.button1{
+    width: 146px;
+    height: 48px;
+    border-radius: 25px;
+    margin-top: 83px;
+    margin-left: 48px;
+    border: none;
+    color: #E28625;
+}
+/* Styling of Child 2 starts */
+.child2{
+    background-color: #006971;
+    border-radius: 8px;
+}
+.icon2{
+    margin-top: 48px;
+    margin-left: 48px;
+}
+.car-name2{
+   width: 99px;
+   height: 48px;
+   font-family: 'Big Shoulders Display';
+   font-weight: 700;
+   font-size: 40px;
+   line-height: 48px;
+   text-transform: uppercase;
+   color: #F2F2F2;
+   margin-left: 48px;
+   margin-top: 32px;
+}
+.car-text2{
+    width: 212px;
+    height: 125px;
+    font-family: 'Lexend Deca';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.75;
+    margin-left: 48px;
+    margin-top: 25px;
+    margin-right: 48px;
+}
+.button2{
+    width: 146px;
+    height: 48px;
+    border-radius: 25px;
+    margin-top: 83px;
+    margin-left: 48px;
+    border: none;
+    color: #006971;
+}
+/* Styling of Child 3 starts */
+.child3{
+    background-color: #004140;
+    border-radius: 8px;
+}
+.icon3{
+    margin-top: 48px;
+    margin-left: 48px;
+}
+.car-name3{
+   width: 99px;
+   height: 48px;
+   font-family: 'Big Shoulders Display';
+   font-weight: 700;
+   font-size: 40px;
+   line-height: 48px;
+   text-transform: uppercase;
+   color: #F2F2F2;
+   margin-left: 48px;
+   margin-top: 32px;
+}
+.car-text3{
+    width: 212px;
+    height: 125px;
+    font-family: 'Lexend Deca';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.75;
+    margin-left: 48px;
+    margin-top: 25px;
+    margin-right: 48px;
+}
+.button3{
+    width: 146px;
+    height: 48px;
+    border-radius: 25px;
+    margin-top: 83px;
+    margin-left: 48px;
+    border: none;
+    color: #004140;
+}
